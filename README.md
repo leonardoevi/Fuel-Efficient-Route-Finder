@@ -15,5 +15,5 @@ aggiungi-auto       91   39                              aggiunta
 aggiungi-auto       52   39                              aggiunta 
 aggiungi-auto       24   28                              aggiunta
 
-pianifica-percorso 24 92                                 24 52 91 92
+pianifica-percorso  24 92                                24 52 91 92
 ```
