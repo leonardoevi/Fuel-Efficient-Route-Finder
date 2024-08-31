@@ -12,5 +12,5 @@ aggiungi-stazione 52 9 13 14 13 17 17 15 18 15 16     aggiunta
 aggiungi-auto 91 39                                   aggiunta
 aggiungi-auto 52 39                                   aggiunta 
 aggiungi-auto 24 28                                   aggiunta
-pianifica-percorso 24 92                              aggiunta
+pianifica-percorso 24 92                              24 52 91 92
 ```
